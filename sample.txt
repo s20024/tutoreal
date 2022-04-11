@@ -2,5 +2,6 @@ Hello sample text
 
 add 変更をインデックスに加える
 
-commit インデックスの状態を記録
+pull リモートリポジトリの内容を取得する
+
 
