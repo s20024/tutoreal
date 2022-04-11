@@ -1,5 +1,9 @@
 Hello sample text
 チュートリアル1
 add 変更をインデックスに加える
+<<<<<<< HEAD
 hello test
+=======
+チュートリアル2
+>>>>>>> 2bfea14fcd24e78032f9cceeb3dbdfce10d47b84
 pull リモートリポジトリの内容を取得する
