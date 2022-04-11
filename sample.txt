@@ -1,3 +1,5 @@
 Hello sample text
 
 add 変更をインデックスに加える
+
+hello test
